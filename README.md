@@ -1,8 +1,15 @@
-# Portfoilo No.2: A Simple Game using C++, Kinect SDK and Direct2D
+# Portfolio No.2: A Simple Game using C++, Kinect SDK and Direct2D
 
 ## Demo Showcase
 
 - [Video record about the game project on Youtube](https://youtu.be/QMBHE3Dcjvc)
+	
+	![avatar](./img/img006.jpg)
+
+- [Github Page for code](https://github.com/TomJinW/PortfolioNo2) 
+
+	![avatar](./img/img005.png)
+
 - The screenshots of the game.
 
 	![avatar](./img/img001.jpg)
@@ -41,7 +48,7 @@ Allens are intruding our Earth by sending asteroids! You are a giant guardian. P
 - Font rendering system. I used a very basic method to render fonts in a stylish way.
 - Programming the logic of the game. Construction the objects used in the game.
 
-## What I Leared from Others
+## What I Learned from Others
 - The Direct2D code for drawing lines.
 - The code used for human body detection.
 
