@@ -31,7 +31,7 @@ Allens are intruding our Earth by sending asteroids! You are a giant guardian. P
 ## Details in this Game
 
 - This game supports 2 player co-up. If so, the asteroids will go even faster!
-- You have only 3 lives. When an asteroid hits the ground, you lose a life with a mark of x at the bottom left corner. If you get all three of them, the game overs.
+- You have only 3 lives. When an asteroid hits the ground, you lose a life with a mark of x at the bottom left corner. If you lose all three of them, the game overs.
 - An extra life can be earned for every 1000 points.
 - The score can go higher more quickly if there's more combo. You lose the combo if you lose one life. BTW, the speed of the asteroids depends on the score and the combo.
 - Please enjoy yourselves.
